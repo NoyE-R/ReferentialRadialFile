@@ -1,0 +1,2 @@
+"idD" "id" "year" "DOY" "date" "CellCLsum_avg" "RRF_avg"
+"1" "St.Fs.55.06_28_2018" "Fs.55" 2018 179 "06_28_2018" 190 263

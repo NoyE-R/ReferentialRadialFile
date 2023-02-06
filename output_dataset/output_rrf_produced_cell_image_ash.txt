@@ -1,0 +1,2 @@
+"idD" "id" "year" "DOY" "date" "CellCLsum_avg" "RRF_avg"
+"1" "Lz.Fa.73.06_19_18" "Fa.73" 2018 170 "06_19_18" 66 92

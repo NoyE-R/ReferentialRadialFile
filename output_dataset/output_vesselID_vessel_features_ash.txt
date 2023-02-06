@@ -1,0 +1,11 @@
+"minLay" "idSectorMin" "idD" "idVessel" "cFile" "layer" "idSectorV" "nbNeigh" "type" "PolySide" "nbcell" "CellS" "CellI" "CellE" "LSide" "nbCellp" "cumulCBef" "vessel.index"
+"1" 1 "c10.l1" "Lz.Fa.73.06_19_18" 36 "10" "3" "c10.l3" 15 "Vessel" "RightSup" 0 0 0 0 "Sup" 0 0 1
+"2" 7 "c14.l7" "Lz.Fa.73.06_19_18" 110 "14" "11" "c14.l11" 12 "Vessel" "RightEdge" 0 0 0 0 "Edge" 0 11 12
+"3" 7 "c8.l7" "Lz.Fa.73.06_19_18" 124 "8" "11" "c8.l11" 18 "Vessel" "LeftSup" 1 0 0 1 "Sup" 1 11 13
+"4" 15 "c6.l15" "Lz.Fa.73.06_19_18" 259 "6" "18" "c6.l18" 19 "Vessel" "LeftEdge" 1 0 1 0 "Edge" 1 25 27
+"5" 27 "c10.l27" "Lz.Fa.73.06_19_18" 639 "10" "29" "c10.l29" 12 "Vessel" "LeftEdge" 2 0 1 1 "Edge" 2 57 60
+"6" 30 "c14.l30" "Lz.Fa.73.06_19_18" 675 "14" "31" "c14.l31" 9 "Vessel" "RightSup" 3 0 1 1 "Sup" 2 66 69
+"7" 33 "c9.l33" "Lz.Fa.73.06_19_18" 808 "9" "34" "c9.l34" 9 "Vessel" "LeftInf" 0 0 0 0 "Inf" 0 74 75
+"8" 36 "c4.l36" "Lz.Fa.73.06_19_18" 970 "4" "37" "c4.l37" 7 "Vessel" "RightInf" 2 0 1 1 "Inf" 2 84 87
+"9" 37 "c14.l37" "Lz.Fa.73.06_19_18" 927 "14" "38" "c14.l38" 7 "Vessel" "LeftInf" 2 0 1 1 "Inf" 2 87 90
+"10" 38 "c5.l38" "Lz.Fa.73.06_19_18" 994 "5" "38" "c5.l38" 10 "Vessel" "LeftInf" 0 1 0 0 "Inf" 0 90 91
