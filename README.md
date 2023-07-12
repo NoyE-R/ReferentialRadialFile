@@ -1,7 +1,7 @@
 # ReferentialRadialFile
 Supporting Git repository sharing R scripts and functions to get xylogenesis dynamic in heterogeneous xylem structure.
 
-Reference for more details: E. Noyer, M. Stojanović, P. Horáček & G. Pérez-de-Lis. "Towards a better understanding of angiosperm xylogenesis: A new method for a cellular approach" *under review*
+Reference for more details: [E. Noyer, M. Stojanović, P. Horáček & G. Pérez-de-Lis. "Towards a better understanding of angiosperm xylogenesis: A new method for a cellular approach" *New Phytologist*](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18959)
 
 The current repository allows the create dataset matching with the input data used in xylogenesis studies at cellular scale (example: [Cuny *et al.* 2013](https://academic.oup.com/jxb/article/64/7/1983/581240)).
 
